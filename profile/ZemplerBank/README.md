@@ -1,6 +1,6 @@
 **💸Zempler bank - mobile banking**
 
-[www.zemplerbank.com/](www.zemplerbank.com/) - FinTech mobile banking app with 500K+ downloads, for processing loans, payments, and transfers. 
+[https://www.zemplerbank.com/](https://www.zemplerbank.com/) - FinTech mobile banking app with 500K+ downloads, for processing loans, payments, and transfers. 
 
 PlayMarket: https://play.google.com/store/apps/details?id=co.uk.mycashplus.maapp&hl=en_GB&pli=1
 
