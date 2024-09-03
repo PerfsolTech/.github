@@ -15,6 +15,14 @@ We are a software development company that strives to create the perfect solutio
 - 👥 [Dedicated Team](https://perfsol.tech/dedicated-development-team?utm_source=github&utm_medium=company-repository)
 - 💻 [Strapi Development](https://perfsol.tech/strapi-development?utm_source=github&utm_medium=company-repository)
 
+## Our Tech Stack
+| ![Laravel](https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png) | ![Next.js](https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png) | ![Docker](https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png) | ![React](https://raw.githubusercontent.com/github/explore/main/topics/react/react.png) |
+|:--------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
+| **Laravel**                                                                                  | **Next.js**                                                                                 | **Docker**                                                                                 | **React**                                                                                 |
+
+| ![Vue.js](https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png) | ![Kubernetes](https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png) | ![AWS](https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png) | ![Azure](https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png) |
+|:---------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|
+| **Vue.js**                                                                        | **Kubernetes**                                                                                                               | **AWS**                                                                             | **Azure**                                                                              |                                                                               |
 
 ## Industries Served
 
