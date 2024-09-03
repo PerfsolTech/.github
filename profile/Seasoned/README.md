@@ -1,4 +1,4 @@
-**🍸Seasoned- Recruiting app for the service industry.**
+**🍸Seasoned - Recruiting app for the service industry.**
 
 https://www.seasoned.co/ - The Seasoned App is where you find a job search as fast as you, get advice from people that get it, and grow your industry family.
 
