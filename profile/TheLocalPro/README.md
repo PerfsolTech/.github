@@ -1,6 +1,6 @@
 **TheLocalPro - Connecting Local Professionals Web App**
 
-[TheLocalPro.com](TheLocalPro.com) is a platform designed to help users find professionals in their local area, focusing specifically on the UK market 🇬🇧
+[TheLocalPro.com](https://thelocalpro.co.uk/) is a platform designed to help users find professionals in their local area, focusing specifically on the UK market 🇬🇧
 
 **Tech Stack**⚙️
 
