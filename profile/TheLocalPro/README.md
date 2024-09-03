@@ -18,4 +18,4 @@
 ⚙️ Scalable Backend: Built to handle large volumes of users and data.
 
 **Ready to hire an expert in just a few clicks?**
-Explore the platform at [TheLocalPro](https://thelocalpro.co.uk/)
+Visit [TheLocalPro](https://thelocalpro.co.uk/)
