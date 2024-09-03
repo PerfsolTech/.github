@@ -49,7 +49,15 @@ Perfsol combines technical expertise with a customer-centric approach, ensuring 
 
 ## Contact Us
 
-Visit our [website](https://perfsol.tech/contact) to learn more about our services and how we can help your business thrive.
+Visit our resources to learn more about our services and how we can help your business thrive.
+- 🌐 [Perfsol Website](https://perfsol.tech/)
+- ⭐ [Perfsol on Clutch](https://clutch.co/profile/perfsol)
+- 💼 [Perfsol on LinkedIn](https://www.linkedin.com/company/perfsol)
+- 🎥 [Perfsol on YouTube](https://www.youtube.com/@perfsol)
+- 👍 [Perfsol on Facebook](https://www.facebook.com/perfsol)
+- 🎵 [Perfsol on TikTok](https://www.tiktok.com/@perfsol.tech)
+- 🐦 [Perfsol on X (Twitter)](https://x.com/PerfsolTech)
+- 📸 [Perfsol on Instagram](https://www.instagram.com/perfsol.tech/)
 
 
 
