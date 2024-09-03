@@ -1,6 +1,6 @@
 **Riverside - Remote Podcast and Video Recording Platform**
 
-[Riverside.fm](Riverside.fm) makes recording remote podcasts and video interviews feel like you're in a million-dollar studio. **Ready to sound like a pro? 🚀**
+[Riverside.fm](https://riverside.fm/) makes recording remote podcasts and video interviews feel like you're in a million-dollar studio. **Ready to sound like a pro? 🚀**
 
 **Built with Cutting-Edge Tech:**
 
@@ -14,4 +14,4 @@ This custom web application for Riverside leverages the power of modern framewor
 
 Ready to Take Your Recordings to the Next Level?
 
-Visit [Riverside.fm](Riverside.fm) and experience the future of remote recording!
+Visit [Riverside.fm](https://riverside.fm/) and experience the future of remote recording!
