@@ -1,4 +1,2 @@
-# Hello
-## This is our portfolio
-
-* [Mxney](mxney/README.md)
+# Mxney staff augumentation
+## some description
