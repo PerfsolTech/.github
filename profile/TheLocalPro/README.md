@@ -5,6 +5,7 @@
 ⚙️ **Tech Stack**
 
 **Frontend:** ⚡️ pixel-perfect UI on React with TypeScript, styled components.
+
 **Backend:** 🪨 Node.js with Express, MongoDB to support the platform's functionality.
 
 **Key features:**
