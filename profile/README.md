@@ -4,6 +4,10 @@ We are a software development company that strives to create the perfect solutio
 
 ## Services
 
+- 🤖 [AI Development](https://perfsol.tech/ai-development?utm_source=github&utm_medium=company-repository)
+- 🧠 [AI Bots Development](https://perfsol.tech/ai-bots-development?utm_source=github&utm_medium=company-repository)
+- 🔗 [RAG Implementation](https://perfsol.tech/rag-implementation?utm_source=github&utm_medium=company-repository)
+- 💡 [Vibe Coding](https://perfsol.tech/vibe-coding?utm_source=github&utm_medium=company-repository)
 - 🌐 [Web Development](https://perfsol.tech/web-application-development?utm_source=github&utm_medium=company-repository)
 - 📱 [Mobile Development](https://perfsol.tech/mobile-app-development?utm_source=github&utm_medium=company-repository)
 - 📺 [TV Development](https://perfsol.tech/smart-tv-app-development?utm_source=github&utm_medium=company-repository)
@@ -14,6 +18,7 @@ We are a software development company that strives to create the perfect solutio
 - ⚙️ [DevOps](https://perfsol.tech/devops-services?utm_source=github&utm_medium=company-repository)
 - 👥 [Dedicated Team](https://perfsol.tech/dedicated-development-team?utm_source=github&utm_medium=company-repository)
 - 💻 [Strapi Development](https://perfsol.tech/strapi-development?utm_source=github&utm_medium=company-repository)
+
 
 ## Our Tech Stack
 | ![Laravel](https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png) | ![Next.js](https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png) | ![Docker](https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png) | ![React](https://raw.githubusercontent.com/github/explore/main/topics/react/react.png) |
@@ -28,7 +33,13 @@ We are a software development company that strives to create the perfect solutio
 |:------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------:|
 | **Node.js**                                                                                | **Nest.js**                                                                                 | **PostgreSQL**                                                                                         | **Kotlin**                                                                                 |
 
+| ![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png) | ![PyFlow](https://raw.githubusercontent.com/github/explore/main/topics/pyflow/pyflow.png) | ![Lovable](https://raw.githubusercontent.com/github/explore/main/topics/lovable/lovable.png) | ![Codegen](https://raw.githubusercontent.com/github/explore/main/topics/codegen/codegen.png) |
+|:----------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
+| **Python**                                                                               | **PyFlow**                                                                               | **Lovable**                                                                                 | **Codegen**                                                                                |
 
+| ![N8n](https://raw.githubusercontent.com/github/explore/main/topics/n8n/n8n.png) | ![Go](https://raw.githubusercontent.com/github/explore/main/topics/go/go.png) | ![High Level](https://raw.githubusercontent.com/github/explore/main/topics/high-level/high-level.png) |
+|:--------------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
+| **N8n**                                                                          | **Go**                                                                       | **High Level**                                                                                       |
 
 ## Industries Served
 
